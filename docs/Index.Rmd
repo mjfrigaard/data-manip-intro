@@ -60,7 +60,7 @@ background-size: 9%
 
 https://mjfrigaard.github.io/data-manip-intro-exercises/Index.html
 
-### A web version of these slides file is located:
+### A web version of these slides is located:
 
 https://mjfrigaard.github.io/data-manip-intro/Index.html
 
