@@ -15,9 +15,6 @@ library(reprex)
 library(xaringan)
 library(pagedown)
 library(xaringanthemer)
-# folders
-folders <- c("code", "data", "img", "docs", "pdfs")
-purrr::map(.x = folders, .f = fs::dir_create)
 # chunk options
 knitr::opts_chunk$set(warning = FALSE, message = FALSE, fig.align = "center", 
                       dpi = 320, fig.height = 4, fig.path = "img/")
