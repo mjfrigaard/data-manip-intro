@@ -1,6 +1,6 @@
 ---
 title: "Data Manipulation with R"
-subtitle: "BioMarin Meetup: transforming, reformatting, and calculating variables"
+subtitle: "BioMarin CSM: An introduction to the dplyr package"
 author: 
   - "Martin Frigaard"
 date: '`r Sys.Date()`'
@@ -49,6 +49,8 @@ background-size: 9%
 ## 3) the pipe `%>%` 
 
 ### *Follow along with the [exercises.](https://mjfrigaard.github.io/data-manip-intro-exercises/Index.html)*
+
+#### *A web version of these slides file is located [here](https://mjfrigaard.github.io/data-manip-intro/Index.html#1).*
 
 
 
