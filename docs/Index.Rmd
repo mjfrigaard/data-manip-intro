@@ -42,13 +42,15 @@ background-size: 9%
 
 # Objectives 
 
-<br>
-
 ## 1) Common data manipulation tasks
 
 ## 2) `dplyr`'s verbs 
 
 ## 3) the pipe `%>%` 
+
+### *Follow along with the [exercises.](https://mjfrigaard.github.io/data-manip-intro-exercises/Index.html)*
+
+
 
 ---
 class: left, top
@@ -613,7 +615,7 @@ mutate(original_starwars,
 ---
 class: left, top
 background-image: url(img/dplyr.png)
-background-position: 5% 95%
+background-position: 95% 20%
 background-size: 7%
 
 # Create columns with `mutate()`
@@ -741,7 +743,7 @@ background-size: 8%
 
 --
 
-```{r pipe-02, fig.align='left', out.height='60%', out.width='60%', echo=FALSE}
+```{r pipe-02, fig.align='center', out.height='60%', out.width='60%', echo=FALSE}
 knitr::include_graphics(path = "img/pipe-03.png")
 ```
 
