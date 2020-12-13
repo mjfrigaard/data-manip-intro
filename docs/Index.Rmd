@@ -1,6 +1,6 @@
 ---
 title: "Data Manipulation with R"
-subtitle: "BioMarin CSM: An introduction to the dplyr package"
+subtitle: "bmRn CSM: An introduction to the `dplyr` package"
 author: 
   - "Martin Frigaard"
 date: '`r Sys.Date()`'
