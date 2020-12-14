@@ -1,6 +1,6 @@
 ---
 title: "Data Manipulation with R"
-subtitle: "bmRn CSM: An introduction to the `dplyr` package"
+subtitle: "bmRn CSM: An introduction to the dplyr package"
 author: 
   - "Martin Frigaard"
 date: '`r Sys.Date()`'
@@ -876,6 +876,6 @@ background-size: 8%
 
 
 ```{r chrome_print, eval=FALSE, echo=FALSE}
-pagedown::chrome_print("Index.html", "pdfs/05-data-manip-intro-slides.pdf")
+pagedown::chrome_print("Index.html", "pdfs/data-manip-intro-slides.pdf")
 ```
 
